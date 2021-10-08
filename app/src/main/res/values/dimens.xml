@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name = "secondLineLength">90dp</dimen>
+    <dimen name = "minuteLineLength">80dp</dimen>
+    <dimen name = "hourLineLength">60dp</dimen>
+</resources>

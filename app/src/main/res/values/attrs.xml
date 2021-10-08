@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="CustomViewAttrs">
+        <attr name="secondLineColor" format="color" />
+        <attr name="minuteLineColor" format="color" />
+        <attr name="hourLineColor" format="color" />
+        <attr name="secondLineLength" format="dimension" />
+        <attr name="minuteLineLength" format="dimension" />
+        <attr name="hourLineLength" format="dimension" />
+    </declare-styleable>
+</resources>
